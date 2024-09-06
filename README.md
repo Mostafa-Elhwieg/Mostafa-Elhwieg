@@ -1,6 +1,6 @@
 <div align="center">
   <blockquote>
-    <h2 style="color: white;"><strong>The best fighter is NEVER angry</strong></h2>
+    <h2><strong>That Mask, It’s Not To Hide Who I Am, But To Create What I Am</strong></h2>
   </blockquote>
 </div>
 
