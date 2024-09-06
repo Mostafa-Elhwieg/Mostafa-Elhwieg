@@ -10,22 +10,6 @@
 
 ---
 
-### 👋 About Me
-
-- 🎓 **Software Engineer** with a focus on mobile app development and backend systems.
-- 🌱 I’m currently enhancing my knowledge in **machine learning** and **Mobile Development**.
-- 💬 Ask me about **Python, Dart, Java**, or any space-related projects!
-
----
-
-### 💻 Tech Stack
-- **Languages**: Python, Java, Dart, C++, C
-- **Frameworks**: Flutter
-- **Databases**: SQLServer, MySQL
-- **Tools**: Git,
-
----
-
 ### 📫 Get in Touch
 - [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/mostafa-adel-02612224a/) 
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafa.elhwieg@gmail.com)
