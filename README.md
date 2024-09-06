@@ -7,7 +7,6 @@
 <br>
 <img height="550" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hiMmx6ZWNxbnl3YXhidGVvbXF0bzl4MmhjcXFuMjNybDgwMjk0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/miFGyQlYCUX2ecmtFT/giphy.gif"  />
 <br> 
----
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="25" alt="dart logo"  />
   <img width="5" />
@@ -49,6 +48,7 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo"  />
 </div>
+
 ---
 
 ### 📫 Get in Touch
