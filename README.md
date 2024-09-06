@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+  <blockquote>
+    <h2><strong>That Mask, It’s Not To Hide Who I Am, But To Create What I Am</strong></h2>
+  </blockquote>
+</div>
 
 <!--
 **Mostafa-Elhwieg/Mostafa-Elhwieg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
