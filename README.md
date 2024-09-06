@@ -4,6 +4,11 @@
   </blockquote>
 </div>
 
+<br>
+
+![Banner]([https://github.com/omarahmedx14/omarahmedx14/assets/38296077/69de8e3d-36fd-4ff1-846e-71254e19824b](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Q2cGxtNWxtNTN5OXgzNzB2eGhpbzM1Y2RlNGJzaDZiZDh2OWpmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l396BoOTIFem9xqQU/giphy.gif))
+
+<br>
 <!--
 **Mostafa-Elhwieg/Mostafa-Elhwieg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
