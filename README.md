@@ -1,5 +1,7 @@
 <div align="center">
-    <h2><strong>That Mask, It’s Not To Hide Who I Am, But To Create What I Am</strong></h2>
+  <blockquote>
+    <h2><strong>The best fighter is NEVER angry</strong></h2>
+  </blockquote>
 </div>
 
 <br>
