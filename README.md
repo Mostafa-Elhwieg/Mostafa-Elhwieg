@@ -57,6 +57,8 @@
 
 ---
 
-### 🌟 Fun Fact
-I believe that **curiosity drives innovation**, and space is the ultimate frontier for exploration and discovery!
+### 🌟 Quote
+
+*"You miss 100% of the shots you don’t take."* — Wayne Gretzky
+
 
