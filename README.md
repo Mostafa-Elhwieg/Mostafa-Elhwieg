@@ -6,7 +6,8 @@
 
 <br>
 
-![Banner]([https://github.com/omarahmedx14/omarahmedx14/assets/38296077/69de8e3d-36fd-4ff1-846e-71254e19824b](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Q2cGxtNWxtNTN5OXgzNzB2eGhpbzM1Y2RlNGJzaDZiZDh2OWpmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l396BoOTIFem9xqQU/giphy.gif))
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDY0cml1bWpnMzQ3dnpocDhrOW03d3IyN2o2M2VpMWplaDd5dDVjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sid4QgwDxJ8l2/giphy.gif"  />
+
 
 <br>
 <!--
