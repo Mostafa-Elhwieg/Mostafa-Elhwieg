@@ -1,8 +1,9 @@
 <div align="center">
   <blockquote>
-    <h2><strong>The best fighter is NEVER angry</strong></h2>
+    <h2 style="color: white;"><strong>The best fighter is NEVER angry</strong></h2>
   </blockquote>
 </div>
+
 
 <br>
 <img height="550" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Q2cGxtNWxtNTN5OXgzNzB2eGhpbzM1Y2RlNGJzaDZiZDh2OWpmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l396BoOTIFem9xqQU/giphy.gif"  />
