@@ -28,7 +28,7 @@
 
 ### 📫 Get in Touch
 - [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/mostafa-adel-02612224a/) 
-- [![Twitter](http://www.w3.org/2000/svg)](https://x.com/mostafa_Hweig)
+- [![Twitter](https://icons8.com/icon/phOKFKYpe00C/twitterx)](https://x.com/mostafa_Hweig)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafa.elhwieg@gmail.com)
 
 ---
