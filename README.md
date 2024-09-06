@@ -5,7 +5,7 @@
 </div>
 
 <br>
-<img height="550" width="700" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdseXpweXIwcGcyeXg5NGs0eXp6bHkxaGVvd2s0N3o1dWp0czF0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lTLV2erK8vf1MIz4Rk/giphy.gif"  />
+<img height="550" allign="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdseXpweXIwcGcyeXg5NGs0eXp6bHkxaGVvd2s0N3o1dWp0czF0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lTLV2erK8vf1MIz4Rk/giphy.gif"  />
 <br> 
 
 ---
