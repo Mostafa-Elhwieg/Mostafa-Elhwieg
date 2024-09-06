@@ -6,7 +6,7 @@
 
 <br>
 
-<iframe src="https://giphy.com/embed/l396BoOTIFem9xqQU" width="480" height="274" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/film-cinemagraph-cinemagraphs-l396BoOTIFem9xqQU">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/l396BoOTIFem9xqQU" width="480" height="274" style="" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 
 <br>
